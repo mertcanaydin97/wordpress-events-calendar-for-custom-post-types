@@ -1,6 +1,6 @@
 # Wordpress Custom Events Calendar
 
-Wordpress Custom Events Calendar is wordpress library for dealing with showing events in calendar.
+Wordpress Custom Events Calendar is wordpress library for dealing with showing events in calendar.Plugin soon :).
 Example:
 https://istanbul.artcorecreative.net/tur-takvimi/
 
